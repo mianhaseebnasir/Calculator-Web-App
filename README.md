@@ -39,7 +39,7 @@ JavaScript – Logic and functionality
 
 Download or clone this repository:
 
-git clone https://github.com/your-username/calculator.git
+git clone [https://github.com/your-username/calculator.git](https://github.com/mianhaseebnasir/Calculator-Web-App.git)
 
 
 Open the project folder.
